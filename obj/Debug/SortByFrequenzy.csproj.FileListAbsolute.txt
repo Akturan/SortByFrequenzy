@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\bin\Debug\SortByFrequenzy.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\bin\Debug\SortByFrequenzy.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\obj\Debug\SortByFrequenzy.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\obj\Debug\SortByFrequenzy.pdb
+C:\Users\Entwickler\Documents\Visual Studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\bin\Debug\SortByFrequenzy.dll
+C:\Users\Entwickler\Documents\Visual Studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\bin\Debug\SortByFrequenzy.pdb
+C:\Users\Entwickler\Documents\Visual Studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\obj\Debug\SortByFrequenzy.dll
+C:\Users\Entwickler\Documents\Visual Studio 2010\Projects\SortByFrequenzy\SortByFrequenzy\obj\Debug\SortByFrequenzy.pdb
